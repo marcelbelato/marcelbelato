@@ -65,3 +65,8 @@
 ![Kibana](https://img.shields.io/badge/-Kibana-333?&logo=kibana&logoColor=005571&style=flat)
 ![Git](https://img.shields.io/badge/-Git-333?&logo=git&logoColor=F05032&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?&logo=github&logoColor=181717&style=flat)
+
+### :detective: Total de Visitas :detective:
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marcelbelato/count.svg" />
+ </p>
