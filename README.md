@@ -23,6 +23,7 @@
 ![C#](https://img.shields.io/badge/-C%23-333?&logo=csharp&logoColor=239120&style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-333?&logo=dotnet&logoColor=512BD4&style=flat)
 ![Angular](https://img.shields.io/badge/-Angular-333?&logo=angular&logoColor=DD0031&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?&logo=vuedotjs&logoColor=DD0031&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?&logo=javascript&logoColor=F7DF1E&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?&logo=typescript&logoColor=3178C6&style=flat)
 ![NestJS](https://img.shields.io/badge/-NestJS-333?&logo=nestjs&logoColor=E0234E&style=flat)
