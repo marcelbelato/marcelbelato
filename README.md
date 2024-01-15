@@ -1,4 +1,4 @@
-## ✋ Hey there, I'm Marcel!
+## 👋 Hey there, I'm Marcel!
 
 I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 with a love for crafting clean and efficient code. 
 
@@ -17,7 +17,7 @@ I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 w
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/marcelbelato/)](https://www.instagram.com/marcelbelato/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/marcel.belato.5/)](https://www.facebook.com/marcel.belato.5/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/marcelbelato)](https://twitter.com/marcelbelato)-->
-### 💬 Let's Connect 💬
+### 🔗 Let's Connect 🔗
 <div id="badges">
   <a href="https://www.linkedin.com/in/marcelbelato/">
     <img src="https://img.shields.io/badge/LinkedIn-666?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
