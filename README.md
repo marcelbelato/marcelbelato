@@ -4,7 +4,7 @@ I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 w
 
 🚗 My journey in the world of programming began 15 years ago, and I've been on an exciting learning adventure ever since.
 
-📚 I'm currently focused on study and practice how to lead pepople.
+📚 I'm currently focused on study and practice how to lead people.
 
 🔎 Feel free to explore my repositories and don't hesitate to reach out! I'm always open to collaboration and new opportunities.
 
