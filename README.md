@@ -42,7 +42,7 @@ I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 w
 
 ### 🔥 My Stats 🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marcelbelato&theme=neon-dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-omega.vercel.app?user=marcelbelato&theme=darcula&border_radius=5&locale=pt_BR&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelbelato&layout=compact&langs_count=7&theme=dracula"/>
 
