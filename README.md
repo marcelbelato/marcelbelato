@@ -19,30 +19,28 @@ I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 w
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/marcelbelato)](https://twitter.com/marcelbelato)-->
 ### 🔗 Let's Connect 🔗
 <div id="badges">
-  <a href="https://www.linkedin.com/in/marcelbelato/">
-    <img src="https://img.shields.io/badge/LinkedIn-666?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-  <a href="https://github.com/marcelbelato">
-    <img src="https://img.shields.io/badge/GitHub-666?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
+  
+  <a href="https://github.com/marcelbelato"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>
+  <a href="https://www.hackerrank.com/profile/marcelbelato"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/></a>
+  <a href="https://instagram.com/marcelbelato"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.linkedin.com/in/marcelbelato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  
   <!--<a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>-->
-  <a href="https://twitter.com/marcelbelato">
+  
+  <!--<a href="https://twitter.com/marcelbelato">
     <img src="https://img.shields.io/badge/Twitter-666?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>-->
 
-  <a href="https://instagram.com/marcelbelato">
-    <img src="https://img.shields.io/badge/Instagram-666?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 ---
 
 ### 🔥 My Stats 🔥
 
-[![GitHub Streak](https://github-streak-stats-omega.vercel.app?user=marcelbelato&theme=darcula&border_radius=5&locale=pt_BR&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-omega.vercel.app?user=marcelbelato&theme=dracula&border_radius=5&locale=pt_BR&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelbelato&layout=compact&langs_count=7&theme=dracula"/>
 
