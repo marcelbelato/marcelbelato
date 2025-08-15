@@ -2,7 +2,7 @@
 
 I'm a passionate ***dad*** 👨‍👩‍👦 and ***software engineer*** 💻 with a love for crafting clean and efficient code. 
 
-🚗 My journey in the world of programming began 15 years ago, and I've been on an exciting learning adventure ever since.
+🚗 My journey in the world of programming began 19 years ago, and I've been on an exciting learning adventure ever since.
 
 📚 I'm currently focused on study and practice how to lead people.
 
